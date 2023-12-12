@@ -1,0 +1,287 @@
+{
+  "main": {
+    "name":"Nathan Breen",
+    "description":"Software Engineer, UI & UX Designer, Ambulator",
+    "image":"mepic.png",
+    "bio":"Software Engineering, Graphic Design, Front-end UI & UX Design, Back-end, React.js, Object Oriented Programming, Ambulator.",
+    "contactmessage":"Contact me.",
+    "email": "natbreenx@gmail.com",
+    "phone": "777-777-7777",
+    "github":"https://github.com/neerb",
+    "linkedin":"https://www.linkedin.com/in/nathan-breen-35196817b/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nathan-breen-35196817b/"
+      }, 
+      {
+        "name":"github",
+        "url":"https://github.com/neerb"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Familiar Technologies and Skills",
+    "education":[
+      {
+        "school":"The University of Texas at Dallas",
+        "degree":"Bachelor of Computer Science - The University of Texas at Dallas (UTD)",
+        "graduated":"August 2018 - May 2022",
+        "description":"Algorithm & Data Structure design, software engineering principles and methodologies, Front-End & Back-End implementations, Object Oriented Programming(OOP)..."
+      }
+    ],
+    "work":[
+      {
+        "company":"McKeon & Breen Counseling Services LLC",
+        "title":"IT Support Technician",
+        "years":"March 2016 - February 2020",
+        "description":"Provided technical support associated with troubleshooting, diagnosing, and implementing technological solutions pertaining to software or hardware related matters in office."
+      },
+      {
+        "company":"Unthink AI UTD Sponsored Internship",
+        "title":"Front-end Development Intern (React.js, Gatsby, Bootstrap, Ant Design, TailwindCSS)",
+        "years":"January 2022 - May 2022",
+        "description":"Developed a full-stack application with coordination between a front and back-end team that enabled users to upload .csv and .xlsx product catalog files to be parsed, uploaded, and processed to a back-end database containing online e-commerce product data via a RESTful API."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React",
+        "src":"reactskill.png"
+      },
+      {
+        "name":"Javascript",
+        "src":"javascriptskill.png"
+      },
+      {
+        "name":"CSS",
+        "src":"cssskill.png"
+      },
+      {
+        "name":"HTML",
+        "src":"htmlskill.png"
+      },
+      {
+        "name":"RESTful APIs",
+        "src":"restful.png"
+      },
+      {
+        "name":"Java",
+        "src":"javaskill.png"
+      },
+      {
+        "name":"C#",
+        "src":"csharpskill.png"
+      },
+      {
+        "name":"SQL",
+        "src":"sqlskill.png"
+      },
+      {
+        "name":"MongoDB",
+        "src":"mongodbskill.png"
+      },
+      {
+        "name":"Gatsby",
+        "src":"gatsbyskill.png"
+      },
+      {
+        "name":"GitHub",
+        "src":"github-mark.png"
+      },
+      {
+        "name":"Jira",
+        "src":"Jira.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "software": [
+      {
+        "title":"React Pokedex: Pokemon API",
+        "technologies":[
+          "React",
+          "CSS",
+          "PokeAPI (RESTful)",
+          "HTML"
+        ],
+        "desc":"Retro-minimalist style and fully responsive Pokedex interface using the PokeAPI (RESTful), React, and styling CSS from scratch.",
+        "image":"pokedexex.png",
+        "demo":"https://neerb.github.io/pokedex-v2/",
+        "source": "https://github.com/neerb/pokedex-v2"
+      },
+      {
+        "title":"Unthink AI E-Commerce Product Uploader(Front-end Team)",
+        "technologies": [
+          "Gatsby React",
+          "TailwindCSS",
+          "Ant Design Components",
+          "Django REST Framework"
+        ],
+        "desc":"Developed the front-end user interface with coordination of back-end team, enabling users to upload .csv and .xlsx product catalog files to be parsed, uploaded, and processed to a back-end database containing online e-commerce product data via a Django implemented RESTful API.",
+        "image":"unthinkai.png",
+        "demo":"https://github.com/neerb",
+        "source":"https://github.com/neerb"
+      },
+      {
+        "title":"Ambulation Zone",
+        "technologies":[
+          "JavaScript",
+          "CSS",
+          "React",
+          "JQuery",
+          "Gatsby"
+        ],
+        "desc":"A zone for my thoughts, programming related, or just for fun ideas (usually visual/interactive).  Sort of a mix of everything.  This is best experienced on a PC/Desktop.",
+        "image":"ambulationzonesc.png",
+        "demo":"https://ambulate.net",
+        "source":"https://github.com/neerb"
+      },
+      {
+        "title":"Greed Island Cards Database: Full-Stack Project",
+        "technologies":[
+          "JavaScript, CSS, React",
+          "Express.js",
+          "MongoDB",
+          "JQuery",
+          "Gatsby"
+        ],
+        "desc":"A full-stack web project with fully implemented multi-pathway RESTful API and Database linkage, populated with the information for all of the Greed Island cards from the popular show Hunter X Hunter.  Accompanied by a front-end user display to view and search through this array of cards.",
+        "image":"greedislanddatabasesc.png",
+        "demo":"https://github.com/neerb",
+        "source":"https://github.com/neerb"
+      },
+      {
+        "title":"Curated and Animated Album Covers",
+        "technologies":[
+          "JavaScript",
+          "CSS",
+          "React",
+          "JQuery",
+          "Gatsby"
+        ],
+        "desc":"A few of my favorite album covers brought to life utilizing CSS styling and animations.",
+        "image":"albumcoverssc.png",
+        "demo":"https://www.ambulation.zone",
+        "source":"https://www.github.com/neerb"
+      },
+      {
+        "title":"A Simple ToDo List Applet",
+        "technologies":[
+          "React",
+          "CSS",
+          "HTML"
+        ],
+        "desc":"The standard ToDo list project built in React, it's that simple.",
+        "image":"todolist.png",
+        "demo":"https://neerb.github.io/boofed-todolist/",
+        "source":"https://github.com/neerb"
+      },
+      {
+        "title":"Pho-Ballah Restaurant Concept Landing Page",
+        "technologies":[
+          "React", 
+          "CSS",
+          "HTML"
+        ],
+        "desc":"A concept restaurant landing page for a fine-dining Pho restaurant.",
+        "image":"phoballah.png",
+        "demo":"https://neerb.github.io/pho-ballah-landingpage-informationsite/",
+        "source": "https://github.com/neerb"
+      },
+      {
+        "title":"ProgrammerCalculator: A Windows Programming Calculator Remake",
+        "technologies":[
+          "Java",
+          "Java Swing Library"
+        ],
+        "desc":"University Project: A complete recreation of the Windows Programmer Caculator implementing an Infix/Postfix expression reducing and solving algorithm.",
+        "image":"calculator.png",
+        "demo":"https://github.com/neerb/ProgrammerCalculator",
+        "source":"https://github.com/neerb"
+      }
+    ],
+    "projects": [
+      {
+        "title":"zipRipped",
+        "category":"My Travel Blog for my post-university travels",
+        "src":"zipRipped.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"waitingRoom",
+        "category":"(offline now) A fighting gear company I started",
+        "src":"waitingRoom.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"skeyeSkape",
+        "category":"(offline now) A fighting gear company I started",
+        "src":"skeyeSkape.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"crackedFold",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "src":"cracked.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"embryo",
+        "category":"A React based resume website template",
+        "src":"embryo.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"ringSit",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "src":"ringSit.png",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"holeHandDream",
+        "category":"My Travel Blog for my post-university travels",
+        "src":"holeHandDream.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"resengan",
+        "category":"(offline now) A fighting gear company I started",
+        "src":"rasengan.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"deepHeavy",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "src":"deepHeavy.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"twindle",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "src":"twindleGreen.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"nathanOrdering",
+        "category":"A React based resume website template",
+        "src":"nathanOrdering.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"lookatem",
+        "category":"A React based resume website template",
+        "src":"lookatem.png",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
